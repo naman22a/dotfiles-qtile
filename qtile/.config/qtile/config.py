@@ -87,24 +87,14 @@ keys = [
     ),
     # Brightness
     Key(
-        [mod, "control"],
-        "Up",
-        lazy.spawn("brillo -A 5"),
-    ),
-    Key(
-        [mod, "control"],
-        "Down",
-        lazy.spawn("brillo -U 5"),
-    ),
-    Key(
         [],
         "XF86MonBrightnessUp",
-        lazy.spawn("sudo brillo -A 5"),
+        lazy.spawn("brillo -A 5"),
     ),
     Key(
         [],
         "XF86MonBrightnessDown",
-        lazy.spawn("sudo brillo -U 5"),
+        lazy.spawn("brillo -U 5"),
     ),
 ]
 
