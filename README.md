@@ -35,7 +35,7 @@ Using install script
 Clone this repository
 
 ```bash
-git clone https://www.github.com/namanArora1022/dotfiles.git ~/.dotfiles
+git clone https://www.github.com/namanArora1022/dotfiles-old.git ~/.dotfiles
 cd ~/.dotfiles
 chmod +x install.sh
 ./install.sh
