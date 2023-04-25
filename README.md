@@ -19,13 +19,13 @@
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/namanArora1022/dotfiles/master/assets/cava.png)
+![App Screenshot](https://raw.githubusercontent.com/namanArora1022/dotfiles-qtile/master/assets/cava.png)
 
 
-![App Screenshot](https://raw.githubusercontent.com/namanArora1022/dotfiles/master/assets/terminals.png)
+![App Screenshot](https://raw.githubusercontent.com/namanArora1022/dotfiles-qtile/master/assets/terminals.png)
 
 
-![App Screenshot](https://raw.githubusercontent.com/namanArora1022/dotfiles/master/assets/wallpaper.png)
+![App Screenshot](https://raw.githubusercontent.com/namanArora1022/dotfiles-qtile/master/assets/wallpaper.png)
 
 
 ## Installation
@@ -35,7 +35,7 @@ Using install script
 Clone this repository
 
 ```bash
-git clone https://www.github.com/namanArora1022/dotfiles-old.git ~/.dotfiles
+git clone https://www.github.com/namanArora1022/dotfiles-qtile.git ~/.dotfiles
 cd ~/.dotfiles
 chmod +x install.sh
 ./install.sh
@@ -43,5 +43,5 @@ chmod +x install.sh
 
 ## License
 
-[MIT LICENSED](https://github.com/namanArora1022/dotfiles/blob/master/LICENSE)
+[MIT LICENSED](https://github.com/namanArora1022/dotfiles-qtile/blob/master/LICENSE)
 
